@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "374178338035",
+    "firebase_url": "https://meuappcomiotedgar.firebaseio.com",
+    "project_id": "meuappcomiotedgar",
+    "storage_bucket": "meuappcomiotedgar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374178338035:android:a16bab2be672cad1",
+        "android_client_info": {
+          "package_name": "br.com.edgar.meuappcomiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374178338035-4vp225q6odsi0ebkg650n6uo9hmm7f34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.edgar.meuappcomiot",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "374178338035-8iikk5jr89p2lr4hcl5m06t5kkt2ts11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zzwP1JkY7W8mvxBxeWmwRxqvqYkVzuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374178338035-8iikk5jr89p2lr4hcl5m06t5kkt2ts11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
